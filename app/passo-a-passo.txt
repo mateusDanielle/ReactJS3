@@ -17,3 +17,6 @@ https://github.com/infinitered/reactotron/releases
 //terminal -> yarn add reactotron-react-js reactotron-redux
 criar config e reactotron.js
 importar conifg no App.js ANTES do store
+
+//Roteamento
+terminal -> yarn add react-router-dom
