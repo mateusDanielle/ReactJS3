@@ -1,0 +1,4 @@
+//Configurando store
+//Instalando Redux
+terminal -> yarn add redux react-redux
+criar store
