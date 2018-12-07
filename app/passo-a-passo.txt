@@ -11,3 +11,9 @@ cirar index.js para combinar os Reducers
 //Utilizando bindActionCreators
 //Separando Actions
 criar pasta actions
+
+//Reactotron
+https://github.com/infinitered/reactotron/releases
+//terminal -> yarn add reactotron-react-js reactotron-redux
+criar config e reactotron.js
+importar conifg no App.js ANTES do store
