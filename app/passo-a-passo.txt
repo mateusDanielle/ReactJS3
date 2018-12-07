@@ -7,3 +7,7 @@ criar store
 //criando reducers
 criar pasta reducers -> todos.js
 cirar index.js para combinar os Reducers
+
+//Utilizando bindActionCreators
+//Separando Actions
+criar pasta actions
