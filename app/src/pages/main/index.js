@@ -19,9 +19,11 @@ class Main extends Component {
           url: PropTypes.string,
         }),
       ),
-      error: PropTypes.oneOf([null, PropTypes.string]),
+      error: PropTypes.string,
     }).isRequired,
   };
+
+  static defaultProps = {};
 
   state = {
     repositoryInput: '',
