@@ -23,3 +23,6 @@ terminal -> yarn add react-router-dom
 
 //Configuração do Saga e Axios
 terminal -> yarn add redux-saga axios
+
+//Plugin do saga na Reactotron
+terminal -> yarn add reactotron-redux-saga
