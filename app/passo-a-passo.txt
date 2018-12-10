@@ -20,3 +20,6 @@ importar conifg no App.js ANTES do store
 
 //Roteamento
 terminal -> yarn add react-router-dom
+
+//Configuração do Saga e Axios
+terminal -> yarn add redux-saga axios
